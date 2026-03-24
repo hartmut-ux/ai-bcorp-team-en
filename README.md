@@ -82,7 +82,7 @@ The skills mirror the B Lab phased approach:
 
 ## Live Demo
 
-🔗 **B Corp Navigator FAQ** — [https://dify.huebner.io/chat/QExMsxb1mzs2bbLO](https://dify.huebner.io/chat/QExMsxb1mzs2bbLO)
+🔗 **B Corp Navigator FAQ** — [https://hartmut-ux.github.io/ai-bcorp-team-en/](https://hartmut-ux.github.io/ai-bcorp-team-en/)
 Chatbot powered by the complete B Lab Standards V2.2, self-hosted on European infrastructure (Frankfurt/Main, Germany).
 
 ## Who Is This For?
