@@ -73,16 +73,17 @@ The skills mirror the B Lab phased approach:
 
 | Component | Technology |
 |-----------|-----------|
-| AI Agents | [Claude](https://claude.ai) Skills (Anthropic) |
+| AI Model | [Claude](https://claude.ai) Sonnet 4.6 (Anthropic) |
 | Agent Protocol | [MCP](https://modelcontextprotocol.io) (Model Context Protocol, Linux Foundation) |
-| Data Sovereignty | [Apertus](https://apertus.ai) (Swiss Open Source AI, Infomaniak) |
 | FAQ Agent | [Dify](https://dify.ai) (Self-hosted, RAG on B Lab Standards V2.2) |
+| Automation | [n8n](https://n8n.io) (Self-hosted, Workflow Automation) |
 | Skill Format | `.skill` ZIP archives for Claude Desktop |
+| Hosting | Hostinger VPS, Server Location Frankfurt/Main, Germany (GDPR compliant) |
 
 ## Live Demo
 
-🔗 **B Corp Navigator FAQ** — [Coming soon]
-Chatbot powered by the complete B Lab Standards V2.2, hosted on Swiss infrastructure with Apertus as the LLM backend.
+🔗 **B Corp Navigator FAQ** — [https://dify.huebner.io/chat/QExMsxb1mzs2bbLO](https://dify.huebner.io/chat/QExMsxb1mzs2bbLO)
+Chatbot powered by the complete B Lab Standards V2.2, self-hosted on European infrastructure (Frankfurt/Main, Germany).
 
 ## Who Is This For?
 
@@ -90,16 +91,6 @@ Chatbot powered by the complete B Lab Standards V2.2, hosted on Swiss infrastruc
 - **Existing B Corps** looking to streamline ongoing reporting
 - **B Corp consultants** seeking AI-powered tools for their clients
 - **Sustainability managers** running B Corp alongside GRI/ESRS/CDP
-
-## Pricing
-
-| | Enterprise B Corp Software | AI B Corp Team |
-|---|---|---|
-| Setup | $20,000–80,000 | **$25,000–40,000** |
-| Annual | $50,000–150,000 | **Token-based (low)** |
-| Data Sovereignty | Cloud (often US) | **Switzerland (Apertus/Infomaniak)** |
-| Customisation | Limited | **Fully customisable** |
-| Interoperability | Proprietary | **GRI, ESRS, CDP, SBTi** |
 
 ## Interoperability
 
@@ -127,12 +118,13 @@ git clone https://github.com/hartmut-ux/ai-bcorp-team-en.git
 
 MIT Licence — Free for commercial and non-commercial use.
 
-## Contact
+## About the Author
 
-**MMIND.ai** — AI Transformation for SMEs
-- Web: [mmind.ai](https://mmind.ai)
-- Email: office@flowstatecyclist.com
-- LinkedIn: [Hartmut Plass](https://linkedin.com/in/hartmutplass)
+**Hartmut Hübner, PhD** combines 20 years of corporate communications in large enterprises (Siemens, financial services) with 10 years of experience in transformation, digitalisation and AI. Co-founder of several startups, including MMIND.ai. Academic background at LMU Munich and PhD from the University of Salford (thesis: *The Communicating Company*). Certified B Corp Consultant.
+
+- 🌐 [mmind.ai](https://mmind.ai) · [MMIND.ai Marketplace](https://mmind.ai/marketplace)
+- 💼 [LinkedIn](https://linkedin.com/in/hartmutplass)
+- 🐙 [GitHub](https://github.com/hartmut-ux)
 
 ---
 
