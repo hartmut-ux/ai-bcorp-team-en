@@ -158,3 +158,4 @@ No. You download a ZIP, copy one folder, and invoke the skill by name.
 ---
 
 *Open source under MIT. Built to make B Corp certification more accessible.*
+<!-- trigger rebuild Wed Jul  1 16:41:23 BST 2026 -->
