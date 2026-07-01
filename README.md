@@ -115,6 +115,12 @@ The skills reference and complement existing standards:
 - **B Corp consultants** seeking AI-powered tools for their clients
 - **Sustainability managers** running B Corp alongside GRI/ESRS/CDP
 
+## Related projects
+
+- **AI Marketing Team** — 11 AI marketing skills for SMEs and purpose-driven organisations: https://github.com/hartmut-ux/ai-marketing-team
+- **AI Legal Team (English)** — 9 AI legal skills for mid-market law firms: https://github.com/hartmut-ux/ai-legal-team-en
+- **AI Legal Team (German)** — 9 KI-rechtliche Skills für mittelgrosse Kanzleien: https://github.com/hartmut-ux/ai-legal-team
+
 ## Licence
 
 MIT Licence — Free for commercial and non-commercial use.

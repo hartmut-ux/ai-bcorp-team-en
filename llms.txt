@@ -1,0 +1,42 @@
+# B Corp Navigator — AI B Corp Team
+
+A library of 10 free AI skills that guide companies through B Corp certification and ongoing impact reporting under B Lab Standards V2.2. Each skill works across Kimi Code CLI, Claude Code and Codex CLI.
+
+## What it is
+
+- 10 specialised AI skills mapped to the B Lab Standards V2.2 requirement areas.
+- Multi-platform: every skill ships as `-all.zip`, `-kimi.zip`, `-claude.zip` and `-codex.zip`.
+- Open source under MIT. No SaaS subscription or vendor lock-in.
+- Designed for SMEs, existing B Corps, consultants and sustainability managers.
+
+## Key skills
+
+- `certification-navigator` — Eligibility checks, roadmap and tailoring.
+- `governance-purpose-architect` — Corporate purpose and stakeholder governance.
+- `fair-work-analyst` — Living wage, employment standards and worker voice.
+- `jedi-strategist` — Justice, equity, diversity and inclusion plans.
+- `human-rights-due-diligence` — Human-rights impact assessments.
+- `climate-action-planner` — GHG measurement, SBTi targets and transition plans.
+- `environmental-stewardship-manager` — Circularity, waste, water and biodiversity.
+- `public-affairs-collective-action` — Lobbying transparency and collective impact.
+- `impact-reporter` — Annual impact reports mapped to GRI and ESRS.
+- `compliance-monitor` — Gap analysis, deadlines and audit preparation.
+
+## How to install
+
+1. Download a skill ZIP from the latest release.
+2. Extract and copy the matching folder:
+   - Kimi: `.kimi/skills/<skill-name>` → `~/.kimi/skills/`
+   - Claude: `.claude/skills/<skill-name>` → `~/.claude/skills/`
+   - Codex: `.codex/skills/<skill-name>` → `~/.codex/skills/`
+3. Invoke the skill by name, e.g. `/certification-navigator` in Kimi or `certification-navigator` in Claude/Codex.
+
+## Related projects
+
+- AI Marketing Team: https://github.com/hartmut-ux/ai-marketing-team
+- AI Legal Team (English): https://github.com/hartmut-ux/ai-legal-team-en
+- AI Legal Team (German): https://github.com/hartmut-ux/ai-legal-team
+
+## Live page
+
+https://hartmut-ux.github.io/ai-bcorp-team-en/
