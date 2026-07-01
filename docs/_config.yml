@@ -1,0 +1,10 @@
+title: "B Corp Navigator — 10 AI Skills for B Corp Certification"
+description: "Free AI skills for B Corp certification and reporting under B Lab Standards V2.2. Works with Kimi Code CLI, Claude Code and Codex CLI."
+url: "https://hartmut-ux.github.io/ai-bcorp-team-en"
+baseurl: ""
+theme: minima
+header_pages:
+  - index.md
+exclude:
+  - skills/
+  - README.md
