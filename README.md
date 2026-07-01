@@ -115,6 +115,23 @@ The skills reference and complement existing standards:
 - **B Corp consultants** seeking AI-powered tools for their clients
 - **Sustainability managers** running B Corp alongside GRI/ESRS/CDP
 
+## Frequently asked questions
+
+### What is an AI skill?
+An AI skill is a reusable instruction pack that teaches your AI assistant how to perform a specific B Corp workflow with consistent quality.
+
+### Do these skills work with Kimi, Claude and Codex?
+Yes. Every skill ships with wrappers for Kimi Code CLI, Claude Code and Codex CLI.
+
+### Are these skills based on the current B Lab Standards?
+Yes. They are built on B Lab Standards V2.2 (February 2026).
+
+### Do I need to pay?
+No. All skills are released under the MIT License.
+
+### Can I use the same skill on multiple assistants?
+Yes. The `-all.zip` file contains wrappers for Kimi, Claude and Codex.
+
 ## Related projects
 
 - **AI Marketing Team** — 11 AI marketing skills for SMEs and purpose-driven organisations: https://github.com/hartmut-ux/ai-marketing-team
